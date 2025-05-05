@@ -20,6 +20,8 @@ It includes two main scripts:
 
 Handles the location system via a Singleton pattern, allowing easy access to GPS data across other scripts.
 
+![GPS Service Script preview](images/GPSService.JPG)
+
 ### 🔧 How it Works
 
 1. Initializes the location service on startup.
@@ -40,6 +42,8 @@ Handles the location system via a Singleton pattern, allowing easy access to GPS
 
 Maps real-world coordinates to in-game positions.
 
+![MapPointer Script Preview](images/MapPointer1.JPG)
+![Map in Unity Scene](images/MapPointer2.JPG)
 ### 🛠️ Setup Instructions
 
 1. **Map Assignment**  
@@ -68,6 +72,8 @@ Incluye dos scripts principales:
 
 Gestiona el sistema de localización con un patrón Singleton para facilitar el acceso desde otros scripts.
 
+![GPS Service Script preview](images/GPSService.JPG)
+
 ### 🔧 Funcionamiento
 
 1. Inicializa el servicio de localización al inicio.
@@ -88,6 +94,8 @@ Gestiona el sistema de localización con un patrón Singleton para facilitar el 
 
 Convierte coordenadas reales del dispositivo a una posición dentro del juego.
 
+![MapPointer Script Preview](images/MapPointer1.JPG)
+![Map in Unity Scene](images/MapPointer2.JPG)
 ### 🛠️ Instrucciones de configuración
 
 1. **Asignación del mapa**  
